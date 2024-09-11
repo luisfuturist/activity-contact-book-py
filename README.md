@@ -41,11 +41,11 @@ To install and run the Contact Book application, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/luisfuturist/activity-contact-book-py.git
+    git clone https://github.com/luisfuturist/exercise-contact-book-py.git
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd activity-contact-book-py
+    cd exercise-contact-book-py
     ```
 3. **(Optional) Create and activate a virtual environment**:
     ```sh
